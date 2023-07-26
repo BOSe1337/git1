@@ -25,6 +25,7 @@
 ![Скриншот](https://github.com/BOSe1337/git1/blob/main/8.jpg)
 
 https://github.com/BOSe1337/git123/blob/main/readme.md
+
 https://github.com/BOSe1337/git123/commits/main
 
 2 Создадим директорию cache которая ранее была добавлена в .gitignore
@@ -32,6 +33,9 @@ https://github.com/BOSe1337/git123/commits/main
 ![Скриншот](https://github.com/BOSe1337/git1/blob/main/9.jpg)
 
 ![Скриншот](https://github.com/BOSe1337/git1/blob/main/10.jpg)
+
+https://github.com/BOSe1337/git123/commits/main
+https://github.com/BOSe1337/git123/blob/main/.gitignore
 
 3 Работа с ветками
 
