@@ -24,7 +24,8 @@
 
 ![Скриншот](https://github.com/BOSe1337/git1/blob/main/8.jpg)
 
-https://github.com/BOSe1337/git1
+https://github.com/BOSe1337/git123/blob/main/readme.md
+https://github.com/BOSe1337/git123/commits/main
 
 2 Создадим директорию cache которая ранее была добавлена в .gitignore
 
