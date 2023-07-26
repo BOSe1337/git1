@@ -35,6 +35,7 @@ https://github.com/BOSe1337/git123/commits/main
 ![Скриншот](https://github.com/BOSe1337/git1/blob/main/10.jpg)
 
 https://github.com/BOSe1337/git123/commits/main
+
 https://github.com/BOSe1337/git123/blob/main/.gitignore
 
 3 Работа с ветками
